@@ -8,7 +8,7 @@
   "dt_branch": "main",
   "dt_remote": "github",
   "dt_path": "device/KONKA/U17",
-  "device_code": "Babel",
+  "device_code": "U17",
   "use_omin_head": true,
   "use_repair_manifest": false,
   "fix_product": false,
